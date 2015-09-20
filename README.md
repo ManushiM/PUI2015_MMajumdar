@@ -17,5 +17,5 @@ Type - source.bashrc - to run the .bashrc file.
 
 4. Verify the setup as follows:
 
-!(Alt text) (pui 2015 confirmation.PNG)
+!(Alt text)(pui 2015 confirmation.PNG)
 
