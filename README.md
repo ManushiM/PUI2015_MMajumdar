@@ -17,3 +17,5 @@ Type - source.bashrc - to run the .bashrc file.
 
 4. Verify the setup as follows:
 
+!(Alt text)(https://github.com/ManushiM/PUI2015_MMajumdar/blob/master/pui%202015%20confirmation.PNG)
+
