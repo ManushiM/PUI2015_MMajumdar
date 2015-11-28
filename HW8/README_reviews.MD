@@ -1,6 +1,6 @@
 Review of am7084
 
-![alt tag](https://github.com/ManushiM/PUI2015_MMajumdar/blob/master/HW8/to/alec_visualization.png)
+![alt tag](https://github.com/ManushiM/PUI2015_MMajumdar/blob/master/HW8/alec_visualization.png)
 
 CLARITY: The ranked distribution of quantity of budgets is expressed clearly.
 ESTHETIC: The variation in quantities of the budgets of each department is graphically very clear, but the color scheme is not appropriate for categorical data.
