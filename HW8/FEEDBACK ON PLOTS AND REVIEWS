@@ -1,0 +1,44 @@
+YOUR REVIEWES were short but on point, critical and insightful 10/10
+
+NOTES ON YOUR PLOT
+==================
+stack histograms are difficult to read: given the few bins side by side histogram would have been a better choice
+
+Others should probably not be the first bin, but the last. otherwise reading left to right the reader does not know other from what
+
+the last label is too long: split into 2 rows
+
+
+legend way too small
+
+choosing one category to be gray the other one a vivid color give the impression that one is more important or relevant than the other (which may or may not be intended given the context)
+
+NOTES ON THE PLOTS YOU REVIEWED
+===============================
+
+apolson
+=======
+the visualization, which was done for the python bootcamp, has some weaknesses: the colored large bind overlayed th small bins cover and blend the colors that are hard to distinguish. the numbers are hard to read when they are across gray bins. the y axis non the bottom plot should be written in more understandable units, units of 10,000 for example. commas between three orders of mag (1,000 instead of 1000) enhance readability. overla of labels should be corrected *subscriber with the number)
+
+mu529
+======
+
+interesting plot: the choice of plotting with small points allows the structure in the data to be seen
+
+robust to color blindness
+
+the three default dots in the legend should be changed to 1 as they are redudnant
+
+
+
+mcleanalec
+==========
+(i think you reviewed the wrong plot: you reviewed the plot of this user https://github.com/Maxthefacts/)
+too many caegories make it hard to read in a single plot
+
+the year label is far too small
+
+it is not clear what the touch of red means at the top of the plot
+
+the color is lost in color blind cases to 10% of males cannot read your plot
+
